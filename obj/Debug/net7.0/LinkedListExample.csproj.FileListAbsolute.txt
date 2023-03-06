@@ -1,0 +1,15 @@
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\bin\Debug\net7.0\LinkedListExample.exe
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\bin\Debug\net7.0\LinkedListExample.deps.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\bin\Debug\net7.0\LinkedListExample.runtimeconfig.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\bin\Debug\net7.0\LinkedListExample.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\bin\Debug\net7.0\LinkedListExample.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\obj\Debug\net7.0\LinkedListExample.csproj.AssemblyReference.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\obj\Debug\net7.0\LinkedListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\obj\Debug\net7.0\LinkedListExample.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\obj\Debug\net7.0\LinkedListExample.AssemblyInfo.cs
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\obj\Debug\net7.0\LinkedListExample.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\obj\Debug\net7.0\LinkedListExample.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\obj\Debug\net7.0\refint\LinkedListExample.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\obj\Debug\net7.0\LinkedListExample.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\obj\Debug\net7.0\LinkedListExample.genruntimeconfig.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\LinkedListExample\obj\Debug\net7.0\ref\LinkedListExample.dll
